@@ -4,7 +4,7 @@
 
 
 ## Yardım & Destek İçin
-- Discord:[Hyrest ✭#0001] (https://discord.com/channels/@me/862997440256278539)
+- Discord:[Hyrest ✭#0001](https://discord.com/channels/@me/862997440256278539)
 - Instagram: [ff_orhan0](https://www.instagram.com/ff_orhan0/?hl=tr)
 
 ## Önemli
