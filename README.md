@@ -1,5 +1,4 @@
 # Context ve Slash Komutları
-- Altyapının full halini paylaşmadım içindeki herşey tamdır, sadece ekstra komutları eklemedim
 - İçerisinde ban mute ve kick komutları bulunmakta 
 - Altyapının boş hali bana ait değildir ^^
 
