@@ -2,7 +2,7 @@ module.exports = {
     token: "BOTUNUZUN TOKENi",
     prefx: "BOTUNUZUN PREFİXİ",
     owner: "SİZİN IDNİZ",
-    mongoURL: "SİZİN IDNİZ",
+    mongoURL: "MONGO URLNİZ",
     sunucuID: "SUNUCU ID",
     
     roles: {
